@@ -5,3 +5,9 @@ In this project we will investigate the emergence of networks as a non centralis
 ## 🔍 Discover our project
 
 To see our project and the results, you can see the jupyter in the github files
+
+
+## 💪 Authors of this project
+
+* **PERROLLAZ Maverick** _alias_ [@M4verickFr](https://github.com/M4verickFr)
+* **CAULLIREAU Dorian** _alias_ [@caullird](https://github.com/caullird)
